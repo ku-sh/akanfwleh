@@ -19,6 +19,14 @@ a:hover{
 	color:#ffffff;
 	text-decoration:underline;
 }
+.nav1{
+	background-color:black;
+	opacity:0.5;
+}
+.nav2{
+	background-color:gray;
+	opacity:0.5;
+}
 .arr{
 	color:#ffffff;
 	text-shadow:-1px 0 skyblue, 1px 0 skyblue, 0 1px skyblue, 0 -1px skyblue, 0px 0px 7px skyblue;
