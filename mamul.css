@@ -6,7 +6,7 @@ body{
 img{
 	width:100%;
 	height:auto;
-	opacity=0.75;
+	opacity:0.75;
 }
 a:link{
 	color:#ffffff;
