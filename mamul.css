@@ -7,6 +7,9 @@ img{
 	height:auto;
 	opacity:0.75;
 }
+b{
+	text-decoration:overline underline;
+}
 a:link{
 	color:#ffffff;
 	text-decoration:none;
