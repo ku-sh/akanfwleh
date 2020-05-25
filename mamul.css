@@ -3,38 +3,46 @@ body{
 	text-shadow:-1px 0 black, 1px 0 black, 0 1px black, 0 -1px black, 0px 0px 7px black;
 }
 img{
-	width:100%;
-	height:auto;
-	opacity:0.75;
+	width: 100%;
+	height: auto;
+	opacity: 0.75;
 }
 b{
-	text-decoration:underline;
+	text-decoration: underline;
 }
 a:link{
-	color:#ffffff;
-	text-decoration:none;
+	color: #ffffff;
+	text-decoration: none;
 }
 a:visited{
-	color:#ffffff;
-	text-decoration:none;
+	color: #ffffff;
+	text-decoration: none;
 }
 a:hover{
-	color:#ffffff;
-	text-decoration:underline;
+	color: #ffffff;
+	text-decoration: underline;
 }
 .arr{
+	color: #ffffff;
+	text-shadow: -1px 0 skyblue, 1px 0 skyblue, 0 1px skyblue, 0 -1px skyblue, 0px 0px 7px skyblue;
+}
+.bs{
 	color:#ffffff;
-	text-shadow:-1px 0 skyblue, 1px 0 skyblue, 0 1px skyblue, 0 -1px skyblue, 0px 0px 7px skyblue;
+	text-shadow: -1px 0 gold, 1px 0 gold, 0 1px gold, 0 -1px gold, 0px 0px 7px gold;
+}
+.th{
+	color:#ffffff;
+	text-shadow: -1px 0 royalblue, 1px 0 royalblue, 0 1px royalblue, 0 -1px royalblue, 0px 0px 7px royalblue;
 }
 .hw{
-	color:#ffffff;
-	text-shadow:-1px 0 slategray, 1px 0 slategray, 0 1px slategray, 0 -1px slategray, 0px 0px 7px slategray;
+	color: #ffffff;
+	text-shadow: -1px 0 slategray, 1px 0 slategray, 0 1px slategray, 0 -1px slategray, 0px 0px 7px slategray;
 }
-.sb{
+.sb, .ln{
 	color:#ffffff;
-	text-shadow:-1px 0 crimson, 1px 0 crimson, 0 1px crimson, 0 -1px crimson, 0px 0px 7px crimson;
+	text-shadow: -1px 0 crimson, 1px 0 crimson, 0 1px crimson, 0 -1px crimson, 0px 0px 7px crimson;
 }
-.shb{
+.shb, .cr{
 	color:#ffffff;
-	text-shadow:-1px 0 mediumslateblue, 1px 0 mediumslateblue, 0 1px mediumslateblue, 0 -1px mediumslateblue, 0px 0px 7px mediumslateblue;
+	text-shadow: -1px 0 mediumslateblue, 1px 0 mediumslateblue, 0 1px mediumslateblue, 0 -1px mediumslateblue, 0px 0px 7px mediumslateblue;
 }
